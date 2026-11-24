@@ -43,8 +43,8 @@ Explanation: 2 does not exist in nums so return -1
 
 **Language:** C++  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 31.2 MB (beats 87.09%)  
-**Submitted:** 2026-11-24T12:28:09.301Z  
+**Memory:** 31.3 MB (beats 62.45%)  
+**Submitted:** 2026-11-24T12:31:35.056Z  
 
 ```cpp
 class Solution {
